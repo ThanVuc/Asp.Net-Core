@@ -1,0 +1,237 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\.npmrc",
+      "PackagePath": "staticwebassets\\.npmrc"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\Html\\1.html",
+      "PackagePath": "staticwebassets\\Html\\1.html"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\Html\\cookies_huongdan.html",
+      "PackagePath": "staticwebassets\\Html\\cookies_huongdan.html"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\Html\\encoding_huongdan.html",
+      "PackagePath": "staticwebassets\\Html\\encoding_huongdan.html"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\Html\\form.html",
+      "PackagePath": "staticwebassets\\Html\\form.html"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\UploadFile\\QLBanHang",
+      "PackagePath": "staticwebassets\\UploadFile"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\UploadFile\\QLSV",
+      "PackagePath": "staticwebassets\\UploadFile"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\UploadFile\\QLSV.zip",
+      "PackagePath": "staticwebassets\\UploadFile\\QLSV.zip"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\manage\\bootstrap-5.0.2-dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\package-lock.json",
+      "PackagePath": "staticwebassets\\package-lock.json"
+    },
+    {
+      "Id": "D:\\Web\\FirstWeb\\wwwroot\\package.json",
+      "PackagePath": "staticwebassets\\package.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FirstWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FirstWeb.props",
+      "PackagePath": "build\\FirstWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FirstWeb.props",
+      "PackagePath": "buildMultiTargeting\\FirstWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FirstWeb.props",
+      "PackagePath": "buildTransitive\\FirstWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

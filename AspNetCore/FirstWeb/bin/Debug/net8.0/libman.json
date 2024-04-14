@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+	"libraries": [
+		{
+			"provider": "cdnjs",
+			"library": "jquery@3.7.1",
+			"destination": "wwwroot/lib/jquery/",
+			"files": [
+				"jquery.min.js"
+			]
+		},
+		{
+			"provider": "cdnjs",
+			"library": "twitter-bootstrap@5.3.3",
+			"destination": "wwwroot/lib/twitter-bootstrap/",
+			"files": [
+				"js/bootstrap.min.js"
+			]
+		}
+	,
+{
+  "provider": "cdnjs",
+  "library": "twitter-bootstrap@5.3.3",
+  "destination": "wwwroot/lib/twitter-bootstrap/"
+}
+]
+}
